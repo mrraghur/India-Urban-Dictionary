@@ -31,6 +31,9 @@ Because There are many things not covered by UrbanDictionary.com
   * Typically this statement is made when a huge scam/corruption is discovered and members of ruling party are the culprits. Since they are members of ruling party and hence friends, government officals/ministers do not want to arrest the culprits and bring to book. So, they act like they will allow police and courts to function without any interference from vested interests.  They want to give an impression of free and fair administration. Hence, some responsible minister/chief minister etc will make this statement. Although, in the background, you can be sure that there is some political pressure on law enforcement officials.
   
   
+* **A woman should dress modestly. Otherwise, men can do anything they want**
+  * In India, most people do not believe in taking responsibility for their actions. They think some reactions are natural, given the circumstances. For example, these people do not believe that its natural that men get excited and loose control when a woman shows more that usual amount of skin. Unfortunately, they do not believe that these men should control feelins irrespective of how the woman acts. Its her body and her wish. The man needs to learn to control his urges. This is part of a larger problem where many Indians (men and women) believe there is something called social norms and if we step out of it, then bad, violent consequences are natural. Most Indians believe that in such cases, rule of law cannot help. Hence they don't think police can help in these cases.
+  
   
   
   
