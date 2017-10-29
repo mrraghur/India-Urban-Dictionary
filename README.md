@@ -22,9 +22,10 @@ Because There are many things not covered by UrbanDictionary.com
   [[https://www.telugu360.com/this-is-how-lokesh-controls-cms-office/]]
   
 * **India is the only place where women are worshipped**
-  * Whenever an issue of women's empowerment comes up, this is a statement typically made to distract from the discussion at hand. In Hinduism, which is big in India, there are many goddesses/female deities. Example Lakshmi is goddess of wealth. This worship of a few women is shown as saying life of most Indian woman is good and that most Indian men are not lecherers, rapists, misogynists, etc. Unfortunately, truth is opposite.
+  * Whenever an issue of women's empowerment comes up, this is a statement typically made to distract from the discussion at hand. In Hinduism, which is big in India, there are many goddesses/female deities. Example Lakshmi is goddess of wealth. This worship of a few women is shown as saying life of most Indian woman is good and that most Indian men are not lecherers, rapists, misogynists, etc. Unfortunately, truth is opposite.
   
-  
+* **Case booked for hurting our religious feelings and disturbing public order**
+  * In India, most people think one's religious beliefs should not be hurt, lest they react violently. Freedom of speech is not well protected. So, when government wants to punish an individual or assuage feelings of a particular group, it uses its wide latitude in enforcing rules and arrests individuals under abobve clause. This is why unless you are a goonda like Bal Thackeray, you cannot make too many statements against other religions.
   
   
   
