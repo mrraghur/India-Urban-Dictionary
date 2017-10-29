@@ -27,6 +27,11 @@ Because There are many things not covered by UrbanDictionary.com
 * **Case booked for hurting our religious feelings and disturbing public order**
   * In India, most people think one's religious beliefs should not be hurt, lest they react violently. Freedom of speech is not well protected. So, when government wants to punish an individual or assuage feelings of a particular group, it uses its wide latitude in enforcing rules and arrests individuals under abobve clause. This is why unless you are a goonda like Bal Thackeray, you cannot make too many statements against other religions.
   
+* **Law will takes its own course and do its work**
+  * Typically this statement is made when a huge scam/corruption is discovered and members of ruling party are the culprits. Since they are members of ruling party and hence friends, government officals/ministers do not want to arrest the culprits and bring to book. So, they act like they will allow police and courts to function without any interference from vested interests.  They want to give an impression of free and fair administration. Hence, some responsible minister/chief minister etc will make this statement. Although, in the background, you can be sure that there is some political pressure on law enforcement officials.
+  
+  
+  
   
   
   
