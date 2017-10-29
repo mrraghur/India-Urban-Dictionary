@@ -2,11 +2,15 @@
 An attempt to make an "urban dictionary" dedicated to various aspects of life connected to India.
 It explains political euphemisms, day to day language and cultural quirks, etc
 
+# North Star: **"How can we educate a voracious 21-year old gullible fresh college graduate so he is not naive/dumb when he enters real world. **
+
 Please send a pull request if you have ideas for what to add. 
 Please raise a hand if you want to see any particular stuff added
+Under each heading ("Eg: We will not be responsible for consequences", we can add multiple examples, just like urbandictionart.com. Send add a sublist item and then send pull request)
+
 
 Why do we need this?
-Because There are many things not covered by UrbanDictionary.com
+Because There are many things not covered by UrbanDictionary.com. I wish I had known these things when I was young and idealistic. It took me 15 yrs to understand the nonsense that is Indian news media.
 
 # Political Euphemisms.
 
@@ -31,10 +35,19 @@ Because There are many things not covered by UrbanDictionary.com
   * Typically this statement is made when a huge scam/corruption is discovered and members of ruling party are the culprits. Since they are members of ruling party and hence friends, government officals/ministers do not want to arrest the culprits and bring to book. So, they act like they will allow police and courts to function without any interference from vested interests.  They want to give an impression of free and fair administration. Hence, some responsible minister/chief minister etc will make this statement. Although, in the background, you can be sure that there is some political pressure on law enforcement officials.
   
   
+#Cultural Issues  
+  
 * **A woman should dress modestly. Otherwise, men can do anything they want**
   * In India, most people do not believe in taking responsibility for their actions. They think some reactions are natural, given the circumstances. For example, these people do not believe that its natural that men get excited and loose control when a woman shows more that usual amount of skin. Unfortunately, they do not believe that these men should control feelins irrespective of how the woman acts. Its her body and her wish. The man needs to learn to control his urges. This is part of a larger problem where many Indians (men and women) believe there is something called social norms and if we step out of it, then bad, violent consequences are natural. Most Indians believe that in such cases, rule of law cannot help. Hence they don't think police can help in these cases.
   
-  
+* **How can a chief minister prevent an how a restaurant treats you (TODO: Expand later)
+
+
+* **Crores of people are living happily in India, why can't you**
+  * This statement is usually made by friends and family when one says life in India is painful, tough etc. They take current standard of lifestyle as good and not something that can be improved upon. They instinctively kill your dreams when you aspire for a better standard of living. 
+
+
+
   
   
   
