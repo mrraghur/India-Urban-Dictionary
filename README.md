@@ -21,7 +21,13 @@ Because There are many things not covered by UrbanDictionary.com
   * I have noted this in Andhra Pradesh. Its a fig leaf post given to a ruling party's minion/chamcha. His only qualification would be that he is close friend of someone in power. Often, these people are lobbyists in the government and can control who sees or does not see in the Chief minister, special secretary etc. Sample case
   [[https://www.telugu360.com/this-is-how-lokesh-controls-cms-office/]]
   
-
+* **India is the only place where women are worshipped**
+  * Whenever an issue of women's empowerment comes up, this is a statement typically made to distract from the discussion at hand. In Hinduism, which is big in India, there are many goddesses/female deities. Example Lakshmi is goddess of wealth. This worship of a few women is shown as saying life of most Indian woman is good and that most Indian men are not lecherers, rapists, misogynists, etc. Unfortunately, truth is opposite.
+  
+  
+  
+  
+  
   
   
   
